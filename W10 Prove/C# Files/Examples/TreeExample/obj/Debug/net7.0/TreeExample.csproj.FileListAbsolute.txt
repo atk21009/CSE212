@@ -1,0 +1,15 @@
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\TreeExample\bin\Debug\net7.0\TreeExample.exe
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\TreeExample\bin\Debug\net7.0\TreeExample.deps.json
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\TreeExample\bin\Debug\net7.0\TreeExample.runtimeconfig.json
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\TreeExample\bin\Debug\net7.0\TreeExample.dll
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\TreeExample\bin\Debug\net7.0\TreeExample.pdb
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\TreeExample\obj\Debug\net7.0\TreeExample.csproj.AssemblyReference.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\TreeExample\obj\Debug\net7.0\TreeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\TreeExample\obj\Debug\net7.0\TreeExample.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\TreeExample\obj\Debug\net7.0\TreeExample.AssemblyInfo.cs
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\TreeExample\obj\Debug\net7.0\TreeExample.csproj.CoreCompileInputs.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\TreeExample\obj\Debug\net7.0\TreeExample.dll
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\TreeExample\obj\Debug\net7.0\refint\TreeExample.dll
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\TreeExample\obj\Debug\net7.0\TreeExample.pdb
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\TreeExample\obj\Debug\net7.0\TreeExample.genruntimeconfig.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Examples\TreeExample\obj\Debug\net7.0\ref\TreeExample.dll

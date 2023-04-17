@@ -1,0 +1,15 @@
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\QueueProblem\bin\Debug\net7.0\QueueProblem.exe
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\QueueProblem\bin\Debug\net7.0\QueueProblem.deps.json
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\QueueProblem\bin\Debug\net7.0\QueueProblem.runtimeconfig.json
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\QueueProblem\bin\Debug\net7.0\QueueProblem.dll
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\QueueProblem\bin\Debug\net7.0\QueueProblem.pdb
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\QueueProblem\obj\Debug\net7.0\QueueProblem.csproj.AssemblyReference.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\QueueProblem\obj\Debug\net7.0\QueueProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\QueueProblem\obj\Debug\net7.0\QueueProblem.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\QueueProblem\obj\Debug\net7.0\QueueProblem.AssemblyInfo.cs
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\QueueProblem\obj\Debug\net7.0\QueueProblem.csproj.CoreCompileInputs.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\QueueProblem\obj\Debug\net7.0\QueueProblem.dll
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\QueueProblem\obj\Debug\net7.0\refint\QueueProblem.dll
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\QueueProblem\obj\Debug\net7.0\QueueProblem.pdb
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\QueueProblem\obj\Debug\net7.0\QueueProblem.genruntimeconfig.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\Problems\QueueProblem\obj\Debug\net7.0\ref\QueueProblem.dll

@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Prove\\final-project-atk21009\\C# Files\\Examples\\TreeExample\\TreeExample.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Prove\\final-project-atk21009\\C# Files\\Examples\\TreeExample\\TreeExample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Prove\\final-project-atk21009\\C# Files\\Examples\\TreeExample\\TreeExample.csproj",
+        "projectName": "TreeExample",
+        "projectPath": "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Prove\\final-project-atk21009\\C# Files\\Examples\\TreeExample\\TreeExample.csproj",
+        "packagesPath": "C:\\Users\\taylo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\taylo\\Desktop\\BYUI\\Winter 23\\CSE212\\Prove\\final-project-atk21009\\C# Files\\Examples\\TreeExample\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\taylo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

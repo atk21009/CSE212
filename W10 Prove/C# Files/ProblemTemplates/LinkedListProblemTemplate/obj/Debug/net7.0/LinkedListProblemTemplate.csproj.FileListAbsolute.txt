@@ -1,0 +1,15 @@
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\ProblemTemplates\LinkedListProblemTemplate\bin\Debug\net7.0\LinkedListProblemTemplate.exe
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\ProblemTemplates\LinkedListProblemTemplate\bin\Debug\net7.0\LinkedListProblemTemplate.deps.json
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\ProblemTemplates\LinkedListProblemTemplate\bin\Debug\net7.0\LinkedListProblemTemplate.runtimeconfig.json
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\ProblemTemplates\LinkedListProblemTemplate\bin\Debug\net7.0\LinkedListProblemTemplate.dll
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\ProblemTemplates\LinkedListProblemTemplate\bin\Debug\net7.0\LinkedListProblemTemplate.pdb
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\ProblemTemplates\LinkedListProblemTemplate\obj\Debug\net7.0\LinkedListProblemTemplate.csproj.AssemblyReference.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\ProblemTemplates\LinkedListProblemTemplate\obj\Debug\net7.0\LinkedListProblemTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\ProblemTemplates\LinkedListProblemTemplate\obj\Debug\net7.0\LinkedListProblemTemplate.AssemblyInfoInputs.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\ProblemTemplates\LinkedListProblemTemplate\obj\Debug\net7.0\LinkedListProblemTemplate.AssemblyInfo.cs
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\ProblemTemplates\LinkedListProblemTemplate\obj\Debug\net7.0\LinkedListProblemTemplate.csproj.CoreCompileInputs.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\ProblemTemplates\LinkedListProblemTemplate\obj\Debug\net7.0\LinkedListProblemTemplate.dll
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\ProblemTemplates\LinkedListProblemTemplate\obj\Debug\net7.0\refint\LinkedListProblemTemplate.dll
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\ProblemTemplates\LinkedListProblemTemplate\obj\Debug\net7.0\LinkedListProblemTemplate.pdb
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\ProblemTemplates\LinkedListProblemTemplate\obj\Debug\net7.0\LinkedListProblemTemplate.genruntimeconfig.cache
+C:\Users\taylo\Desktop\BYUI\Winter 23\CSE212\Prove\final-project-atk21009\C# Files\ProblemTemplates\LinkedListProblemTemplate\obj\Debug\net7.0\ref\LinkedListProblemTemplate.dll
